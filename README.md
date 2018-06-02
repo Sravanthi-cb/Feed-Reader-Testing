@@ -43,12 +43,12 @@ Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/pr
 
 # How it works
 
--The web page loads the following 4 Feeds: "Udacity Blog", "CSS Tricks", "HTML Rocks" and "Linear Degression".
--The web page contains the functionality and as well the Jasmine tests. 
--The Functionality part gives you the possibility to switch between the above mentioned Feeds, each Feed displays 4 feed entries per default and a click on a feed entry opens the feed article.
--The Tests part shows the result of all the Jasmine tests.
--Running the tests successfully assures that the required functionality works as expected. 
--If the any of the tests fails the Jasmine throws up the errors as spec.
+- The web page loads the following 4 Feeds: "Udacity Blog", "CSS Tricks", "HTML Rocks" and "Linear Degression".
+- The web page contains the functionality and as well the Jasmine tests. 
+- The Functionality part gives you the possibility to switch between the above mentioned Feeds, each Feed displays 4 feed entries per default and a click on a feed entry opens the feed article.
+- The Tests part shows the result of all the Jasmine tests.
+- Running the tests successfully assures that the required functionality works as expected. 
+- If the any of the tests fails the Jasmine throws up the errors as spec.
 
 # Referred Links
 
