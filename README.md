@@ -77,7 +77,6 @@ You can clone or download this git repository to your local machine. Locate to t
 7. You can visit http://localhost:8080 to view your app running
 8. You can stop the server using ctrl+c
 
-# Live Version
-[Live Demo](https://sravanthi-cb.github.io/Feed-Reader-Testing/)
+
 
 
