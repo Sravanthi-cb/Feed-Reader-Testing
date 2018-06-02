@@ -56,7 +56,6 @@ Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/pr
 
 # Test link
 
-<<<<<<< HEAD
 Open the Feed Reader Testing link below
 [Live Demo](https://sravanthi-cb.github.io/Feed-Reader-Testing/)
 
@@ -78,7 +77,7 @@ You can clone or download this git repository to your local machine. Locate to t
 7. You can visit http://localhost:8080 to view your app running
 8. You can stop the server using ctrl+c
 
-=======
+# Live Version
 [Live Demo](https://sravanthi-cb.github.io/Feed-Reader-Testing/)
->>>>>>> b2cde85ce8e566956793c635ce9e534672f7e506
+
 
