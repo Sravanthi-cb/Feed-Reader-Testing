@@ -43,12 +43,12 @@ Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/pr
 
 # How it works
 
--The web page loads the following 4 Feeds: "Udacity Blog", "CSS Tricks", "HTML Rocks" and "Linear Degression".
--The web page contains the functionality and as well the Jasmine tests. 
--The Functionality part gives you the possibility to switch between the above mentioned Feeds, each Feed displays 4 feed entries per default and a click on a feed entry opens the feed article.
--The Tests part shows the result of all the Jasmine tests.
--Running the tests successfully assures that the required functionality works as expected. 
--If the any of the tests fails the Jasmine throws up the errors as spec.
+- The web page loads the following 4 Feeds: "Udacity Blog", "CSS Tricks", "HTML Rocks" and "Linear Degression".
+- The web page contains the functionality and as well the Jasmine tests. 
+- The Functionality part gives you the possibility to switch between the above mentioned Feeds, each Feed displays 4 feed entries per default and a click on a feed entry opens the feed article.
+- The Tests part shows the result of all the Jasmine tests.
+- Running the tests successfully assures that the required functionality works as expected. 
+- If the any of the tests fails the Jasmine throws up the errors as spec.
 
 # Referred Links
 
@@ -56,6 +56,7 @@ Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/pr
 
 # Test link
 
+<<<<<<< HEAD
 Open the Feed Reader Testing link below
 [Live Demo](https://sravanthi-cb.github.io/Feed-Reader-Testing/)
 
@@ -77,4 +78,7 @@ You can clone or download this git repository to your local machine. Locate to t
 7. You can visit http://localhost:8080 to view your app running
 8. You can stop the server using ctrl+c
 
+=======
+[Live Demo](https://sravanthi-cb.github.io/Feed-Reader-Testing/)
+>>>>>>> b2cde85ce8e566956793c635ce9e534672f7e506
 
