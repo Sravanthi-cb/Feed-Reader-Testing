@@ -1,21 +1,5 @@
-# Project Overview
 
-This is one of the Udacity FEND Nanodegree Project. This project is a web-based application that reads RSS feeds. 
-
-
-## Why this Project?
-
-Testing is an important part of the development process and many organizations practice a standard of development known as "test-driven development". This is when developers write tests first, before they ever start developing their application. All the tests initially fail and then they start writing application code to make these tests pass.
-
-Whether you work in an organization that uses test-driven development or in an organization that uses tests to make sure future feature development doesn't break existing features, it's an important skill to have!
-
-
-## Testing Environment
-
-Jasmine is used to write a number of tests against a pre-existing application. The project has underlying business logic of the application as well as the event handling and DOM manipulation.
-
-
-# Project Specifications
+# How will I complete this project?
 
 Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/projects/3442558598/rubric)
 
@@ -40,21 +24,3 @@ Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/pr
 19. Implement error handling for undefined variables and out-of-bound array access.
 20. When complete - all of your tests should pass. 
 21. Write a README file detailing all steps required to successfully run the application. If you have added additional tests (for Udacious Test Coverage),  provide documentation for what these future features are and what the tests are checking for.
-
-# How it works
-
--The web page loads the following 4 Feeds: "Udacity Blog", "CSS Tricks", "HTML Rocks" and "Linear Degression".
--The web page contains the functionality and as well the Jasmine tests. 
--The Functionality part gives you the possibility to switch between the above mentioned Feeds, each Feed displays 4 feed entries per default and a click on a feed entry opens the feed article.
--The Tests part shows the result of all the Jasmine tests.
--Running the tests successfully assures that the required functionality works as expected. 
--If the any of the tests fails the Jasmine throws up the errors as spec.
-
-# Referred Links
-
-[Udacity Discussion Forum](https://discussions.udacity.com/c/nd001-feed-reader-testing/feed-reader-testing-project)
-
-# Test link
-
-[Live Demo]()
-
