@@ -101,29 +101,28 @@ $(function() {
          * by the loadFeed function that the content actually changes.
          * Remember, loadFeed() is asynchronous.
          */
-
-
-
         describe('New Feed Selection', function() {
         
-          let oldFeed,
-              newFeed;
+          let prevFeedData,
+              newFeedData;
               
           beforeEach(function(done){
             loadFeed(0, function(){
-                oldFeed = document.querySelector('.feed').innerHTML;
-                done();
-            });
+                // feed 0 done loading
+                prevFeedData = document.querySelector('.feed').innerHTML;         
             
             loadFeed(1, function(){
-                newFeed = document.querySelector('.feed').innerHTML;
+                // feed 1 done loading
+                newFeedData = document.querySelector('.feed').innerHTML;
                 done();
             });
         
-          });
+            });
+
+          });  
 
           it('new feed is loaded when the content changes', function(done){
-            expect(oldFeed).not.toEqual(newFeed);         
+            expect(prevFeedData).not.toEqual(newFeedData);         
             done();
           });         
         

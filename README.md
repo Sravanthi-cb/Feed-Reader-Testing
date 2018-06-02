@@ -56,5 +56,25 @@ Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/pr
 
 # Test link
 
-[Live Demo]()
+Open the Feed Reader Testing link below
+[Live Demo](https://sravanthi-cb.github.io/Feed-Reader-Testing/)
+
+# How to open the app
+
+You can clone or download this git repository to your local machine. Locate to the repository folder and open index.html, you should be able to see the feeds load.
+
+# How to host app locally
+
+1. Clone or Download the repository to your project folder
+2. Check if you have Node.js installed, run this command in your terminal: node -v
+   - Please refer to [node.js](https://nodejs.org/en/) for futher details
+3. To confirm that you have npm installed you can run this command in your terminal: npm -v 
+   - Please refer to [npm](https://www.npmjs.com/get-npm)
+4. Open terminal navigate to the project folder root cd project-folder-name
+5. Install http-server in npm with command line  npm install http-server -g. 
+  - Please refer for further details [http-server](https://www.npmjs.com/package/http-server)  
+6. Start the server for this app using http-server
+7. You can visit http://localhost:8080 to view your app running
+8. You can stop the server using ctrl+c
+
 
